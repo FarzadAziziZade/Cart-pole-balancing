@@ -1,4 +1,4 @@
 # Cart-pole-balancing
 Cart pole balancing
 Farzad Azizi Zade
-I wrote this script in 2016
+I wrote these scripts in 2016
